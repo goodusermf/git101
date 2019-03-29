@@ -1,3 +1,6 @@
+def hola():
+    print("hello now!!!")
+    
 def hello():
     print("hola!!!")
 
